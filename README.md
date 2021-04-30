@@ -1,3 +1,3 @@
 # Truffle-Ganache-Metamask-Solidity
 
-![](images/blockchainGIF.gif)
+![](images/solidityGIF.gif)
