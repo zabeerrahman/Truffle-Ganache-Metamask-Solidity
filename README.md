@@ -1,3 +1,3 @@
 # Truffle-Ganache-Metamask-Solidity
 
-![](images/solidityGIF.gif)
+![](images/solidityGIF.gif | width = 720)
