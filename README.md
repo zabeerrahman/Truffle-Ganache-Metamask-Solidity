@@ -1,4 +1,4 @@
-# Truffle-Ganache-Metamask-Solidity
+# Truffle-Ganache-Metamask-Solidity Smart Contracts
 
 GIF of smart contracts in action:
 
